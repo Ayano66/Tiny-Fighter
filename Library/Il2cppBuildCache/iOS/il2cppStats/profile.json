@@ -1,0 +1,29 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "il2cpp_outer", "ph":"M", "name": "process_name", "args": {"name": "il2cpp_outer"} },
+{ "pid": "il2cpp_outer", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -1} },
+{ "pid": "il2cpp_outer", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": "Main thread"} },
+{ "pid": "il2cpp_outer", "tid": 1,"ts": 1667108899374393,"dur": 337020, "ph":"X", "name": "il2cpp.exe"},
+{ "pid": "il2cpp_outer", "tid": 1,"ts": 1667108899381168,"dur": 160029, "ph":"X", "name": "BeeDriverRunner.Execute"},
+{ "pid": "il2cpp_outer", "tid": 1,"ts": 1667108899544346,"dur": 1237, "ph":"X", "name": "Write Analytics"},
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "Main thread" } },
+{ "pid": 0, "tid": 1, "ts": 1667108899516761, "dur": 65076, "ph": "X", "name": "Build FinalProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1667108899517933, "dur": 21879, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1667108899539824, "dur": 41968, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1667108899581806, "dur": 31, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1667108899586245, "dur": 1208, "ph": "X", "name": "Main thread", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1667108899584593, "dur": 2925, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{}
+
+],
+"meta_datetime": "10/30/2022 14:48:19",
+"meta_command_line": "/Applications/Unity/Hub/Editor/2021.3.10f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=unityaot-macos --cachedirectory=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS --additional-cpp=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp --additional-cpp=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp --incremental-g-c-time-slice=3 --avoid-dynamic-library-copy --dont-deploy-baselib --profiler-report --directory=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Temp/StagingArea/Data/Managed --generatedcppdir=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/il2cppOutput --stats-output-dir=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/il2cppStats --convert-in-graph",
+"meta_command_line_args": "/Applications/Unity/Hub/Editor/2021.3.10f1/Unity.app/Contents/il2cpp/build/deploy/il2cpp.dll --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=unityaot-macos --cachedirectory=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS --additional-cpp=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp --additional-cpp=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp --incremental-g-c-time-slice=3 --avoid-dynamic-library-copy --dont-deploy-baselib --profiler-report --directory=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Temp/StagingArea/Data/Managed --generatedcppdir=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/il2cppOutput --stats-output-dir=/Users/ayano/Downloads/ayanofinal1/S24000655_\u7027\u7530\u5f69\u4e43/Library/Il2cppBuildCache/iOS/il2cppStats --convert-in-graph",
+"meta_user_name": "ayano",
+"meta_os_version": "Unix 12.5.0",
+"meta_cpu_count": "8"
+}

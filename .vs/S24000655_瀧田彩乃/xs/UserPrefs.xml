@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E9681AA1-7C37-6351-8C8E-739C5B68E456}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LastEnemyScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LastEnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="255" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.collab-proxy@1.17.2/Editor/PlasticSCM/PlasticWindow.cs" Line="1014" Column="1" />
+      <File FileName="Assets/Scripts/LastEnemySensor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="S24000655_瀧田彩乃" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f8033fd0-6be7-48db-ac18-99372562ffb7" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
